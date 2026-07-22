@@ -1,3 +1,8 @@
+---
+layout: default
+title: Philipp Roßberg
+---
+
 ## About Me
 28 year old Economics student currently enrolled in a Master's programme at Maastricht University.
 My background is mainly in  econometrics and data analysis focused on economic and social policy.
@@ -13,5 +18,5 @@ Vergleich** — comparing income inequality in the USA and Mexico in the 21st ce
 bal Repository of Income Dynamics) as the main data source — visualizations and calculations done with Stata
 
 ## Contact
-philipp@rossberg.me
+[E-Mail Me](mailto:philipp@rossberg.me)
 [LinkedIn](https://www.linkedin.com/in/philipp-ro%C3%9Fberg-3b93511a9/)
