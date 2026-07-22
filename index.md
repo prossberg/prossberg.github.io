@@ -19,4 +19,5 @@ bal Repository of Income Dynamics) as the main data source — visualizations an
 
 ## Contact
 [E-Mail Me](mailto:philipp@rossberg.me)
+
 [LinkedIn](https://www.linkedin.com/in/philipp-ro%C3%9Fberg-3b93511a9/)
