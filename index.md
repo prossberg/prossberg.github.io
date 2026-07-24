@@ -11,6 +11,12 @@ My background is mainly in  econometrics and data analysis focused on economic a
 - **M.Sc. Economics**, Maastricht University (starting 2026)
 - **B.Sc. Economics**, University of Bonn — thesis on the German pension system
 
+## Languages
+German: Native
+English: C2 IELTS certificate
+Spanish: B2
+French: B1
+
 ## Projects
 - **Bachelor Thesis: Evaluating economic effects of an active pension in Germany** — empirical analysis of the potential and expected effects of an active pension system in Germany as proposed in 2025 — SOEP (Socio-Economic-Panel) as a data source — analyzed using Python 
 - **Seminar Group-Project: Einkommensungleichheit in Mexiko und den USA - ein
