@@ -13,7 +13,7 @@ My background is mainly in  econometrics and data analysis focused on economic a
 
 ## Languages
 German: Native  
-English: C2
+English: C2  
 Spanish: B2  
 French: B1
 
