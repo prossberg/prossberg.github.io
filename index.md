@@ -12,9 +12,9 @@ My background is mainly in  econometrics and data analysis focused on economic a
 - **B.Sc. Economics**, University of Bonn — thesis on the German pension system
 
 ## Languages
-German: Native
-English: C2 IELTS certificate
-Spanish: B2
+German: Native  
+English: C2 IELTS certificate  
+Spanish: B2  
 French: B1
 
 ## Projects
