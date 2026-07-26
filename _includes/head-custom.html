@@ -1,1 +1,13 @@
 <link rel="icon" type="image/png" href="{{ '/assets/favicon.png' | relative_url }}">
+
+<button id="theme-toggle" style="position:fixed;top:1rem;right:1rem;z-index:100;background:none;border:none;font-size:1.5rem;cursor:pointer;">🌙</button>
+<script>
+  const btn = document.getElementById('theme-toggle');
+  const stored = localStorage.getItem('theme');
+  if (stored === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
+  btn.addEventListener('click', () => {
+    const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+    document.documentElement.setAttribute('data-theme', isDark ? '' : 'dark');
+    localStorage.setItem('theme', isDark ? 'light' : 'dark');
+  });
+</script>
