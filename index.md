@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Philipp Roßberg
+title: About Me
 ---
 
 ## About Me
