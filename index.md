@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Philipp Roßberg
 ---
 
 ## About Me
